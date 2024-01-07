@@ -8,5 +8,5 @@
 ## 논문 제목
 밑 하이퍼링크를 누르시면 바로 velog 링크로 가실 수 있습니다.
 
-1. [Neural Machine Translation by Jointly Learning to Align and Translate - Bahdanau Attention]([https://gbdai.tistory.com/46](https://velog.io/@cksgh0984/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate-Bahdanau-Attention-4sx0m0yk)https://velog.io/@cksgh0984/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate-Bahdanau-Attention-4sx0m0yk)
+1. [Neural Machine Translation by Jointly Learning to Align and Translate - Bahdanau Attention](https://velog.io/@cksgh0984/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate-Bahdanau-Attention-4sx0m0yk)
 
